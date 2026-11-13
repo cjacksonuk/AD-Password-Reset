@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+
+# Runtime data for the packaged app — must never be committed
+dist/ADUserManager-AuditLog.csv
+dist/ADUserManager.ini
